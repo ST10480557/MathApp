@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edTnumberOne" type="id" />
+    <item name="edTnumberTwo" type="id" />
+    <item name="btnEqual" type="id" />
+    <item name="edTanswer" type="id" />
+</resources>
